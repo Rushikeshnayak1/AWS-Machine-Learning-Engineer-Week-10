@@ -16,9 +16,9 @@ This repository documents my Week 10 learning through three presentation-based s
 
 | Part | Focus | Presentation | YouTube explanation | LinkedIn learning post |
 |---|---|---|---|---|
-| 1 | SageMaker Data Wrangler | [View PPT](Presentations/Part-1-SageMaker-Data-Wrangler.pptx) | [Add Part 1 YouTube URL](https://www.youtube.com/) | [Add Part 1 LinkedIn URL](https://www.linkedin.com/) |
-| 2 | SageMaker Model Monitor | [View PPT](Presentations/Part-2-SageMaker-Model-Monitor.pptx) | [Add Part 2 YouTube URL](https://www.youtube.com/) | [Add Part 2 LinkedIn URL](https://www.linkedin.com/) |
-| 3 | SageMaker Clarify and Feature Store | [View PPT](Presentations/Part-3-SageMaker-Clarify-and-Feature-Store.pptx) | [Add Part 3 YouTube URL](https://www.youtube.com/) | [Add Part 3 LinkedIn URL](https://www.linkedin.com/) |
+| 1 | SageMaker Data Wrangler | [View PPT](Presentations/Part-1-SageMaker-Data-Wrangler.pptx) |[https://youtu.be/m2XsgSLpofU?si=wkVctlxEK01HzMAm] | [https://lnkd.in/p/gVg9bEZt] |
+| 2 | SageMaker Model Monitor | [View PPT](Presentations/Part-2-SageMaker-Model-Monitor.pptx) | [https://youtu.be/7wWaZDTVaHU?si=5pZpxyupcseUd6AC] | [https://lnkd.in/p/gXn-kxCZ] |
+| 3 | SageMaker Clarify and Feature Store | [View PPT](Presentations/Part-3-SageMaker-Clarify-and-Feature-Store.pptx) | [https://youtu.be/p3Z51uphsC4?si=L0NPdUrYR6o4CRlx] | [https://youtu.be/p3Z51uphsC4?si=L0NPdUrYR6o4CRlx] |
 
 **Important:** Replace the six generic platform links above with your actual published video/post URLs before submitting. Links are also collected in [Links.md](Links.md).
 
